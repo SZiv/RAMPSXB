@@ -59,39 +59,3 @@ MOSFET 5          -  45
 HC-05 chip, LCD screen, and SD card follow the standard pinouts
 
 
-
----- Bill of Materials ----  
-
-Part                                      Quantity          Package  
-
-Electrolytic Capacitors, 100uF, SMD         4                 0605  
-Electrolytic Capacitors, 10uF, SMD          4                 0405  
-Nonpolarized Capacitor, SMD, 0.47uF			3				  0805  
-Resistors, SMD, 100k Ohm                    8                 0805  
-Resistors, SMD, 10k Ohm                     4                 0805  
-Resistors, SMD, 10 Ohm                      4                 0805  
-Resistors, SMD, 1.8k Ohm                    4                 0805  
-Resistors, SMD, 4.7k Ohm                    4                 0805  
-Resistors, SMD, 3.3k Ohm                    1                 0805  
-Resistors, SMD, 2.2k Ohm                    1                 0805  
-MOSFET, Through-hole, stp55nf06l            4                 TO-220  
-LEDs, SMD                                   4                 0805  
-Screw Terminals                             5                 3.5mm  
-Schurter Fuse Holder                        1                 SH22,5  
-PTC Fuse                                    1                
-Pin Headers, 1x18, female, 0.1" spacing     1                 N/A   
-Pin Headers, 1x8, female, 0.1" spacing      8                 N/A  
-Pin Headers, 2x10, female, 0.1" spacing     1                 N/A  
-Pin Headers, 2x4, female, 0.1" spacing      3                 N/A
-Pin Headers, 1x4, female, 0.1" spacing      2                 N/A
-Pin Headers, 1x6, female, 0.1" spacing      3                 N/A  
-Pin Headers, 1x1, male, 0.1" spacing        1                 N/A  
-Pin Headers, 2x4, male, 0.1" spacing        6                 N/A  
-Pin Headers, 1x4, male, 0.1" spacing        3                 N/A  
-Pin Headers, 2x5, male, 0.1" spacing        2                 N/A
-Pin Headers, 2x2, male, 0.1" spacing        1                 N/A  
-Pin Headers, 1x3, male, 0.1" spacing        4                 N/A  
-  
-
-
-
