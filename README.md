@@ -51,10 +51,10 @@ Thermistor T3     -  A11
 Thermistor T4     -  A12  
 Thermistor T5     -  A10  
 Thermistor T6     -  A5  
-MOSFET 2          -  4  
-MOSFET 3          -  5  
-MOSFET 4          -  6  
-MOSFET 5          -  45    
+MOSFET 2          -  H4  
+MOSFET 3          -  H5  
+MOSFET 4          -  H6  
+MOSFET 5          -  H45    
 
 HC-05 chip, LCD screen, and SD card follow the standard pinouts
 
