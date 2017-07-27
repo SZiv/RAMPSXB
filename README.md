@@ -35,7 +35,7 @@ Released under GPL V3
 
 
 
----- Pin Definitions ----
+# Pin Definitions
 
 E2 Direction      -  15  
 E2 Step           -  19  
