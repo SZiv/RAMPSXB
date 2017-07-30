@@ -27,7 +27,7 @@ This comes at the cost of:
 - A lot of additional space
 
 
-If you have questions, feel free to shoot me a message.
+If you have questions, feel free to shoot me a message, or if you want to learn more about the making of this project, see here: http://scottziv.com/?p=261
 
 Happy printing!
 
