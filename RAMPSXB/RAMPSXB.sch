@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.1.1">
+<eagle version="8.2.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -12712,6 +12712,7 @@ grid 2.54 mm</description>
 <part name="JP20" library="adafruit" deviceset="PINHD-1X1" device=""/>
 <part name="JP15" library="adafruit" deviceset="PINHD-2X4" device=""/>
 <part name="CN6" library="adafruit" deviceset="1X4" device="-BIG"/>
+<part name="JP21" library="adafruit" deviceset="PINHD-1X3" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -12861,6 +12862,7 @@ grid 2.54 mm</description>
 <instance part="JP20" gate="G$1" x="137.16" y="-124.46" rot="R180"/>
 <instance part="JP15" gate="A" x="63.5" y="-15.24"/>
 <instance part="CN6" gate="G$1" x="198.12" y="35.56" rot="R90"/>
+<instance part="JP21" gate="A" x="-58.42" y="-93.98" rot="R270"/>
 </instances>
 <busses>
 </busses>
@@ -14411,6 +14413,11 @@ grid 2.54 mm</description>
 <junction x="325.12" y="-86.36"/>
 <label x="327.66" y="-86.36" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="JP21" gate="A" pin="3"/>
+<wire x1="-60.96" y1="-91.44" x2="-60.96" y2="-83.82" width="0.1524" layer="91"/>
+<label x="-60.96" y="-86.36" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="D5" class="0">
 <segment>
@@ -14427,6 +14434,11 @@ grid 2.54 mm</description>
 <junction x="325.12" y="-104.14"/>
 <label x="327.66" y="-104.14" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="JP21" gate="A" pin="2"/>
+<wire x1="-58.42" y1="-91.44" x2="-58.42" y2="-83.82" width="0.1524" layer="91"/>
+<label x="-58.42" y="-86.36" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="D4" class="0">
 <segment>
@@ -14442,6 +14454,11 @@ grid 2.54 mm</description>
 <wire x1="325.12" y1="-121.92" x2="327.66" y2="-121.92" width="0.1524" layer="91"/>
 <junction x="325.12" y="-121.92"/>
 <label x="327.66" y="-121.92" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP21" gate="A" pin="1"/>
+<wire x1="-55.88" y1="-91.44" x2="-55.88" y2="-83.82" width="0.1524" layer="91"/>
+<label x="-55.88" y="-86.36" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="BTRX" class="0">
