@@ -218,7 +218,7 @@
 <text x="16.1544" y="42.672" size="0.8128" layer="21">GND</text>
 <text x="19.2024" y="45.72" size="1.27" layer="21">I2C</text>
 <text x="35.306" y="21.082" size="3.81" layer="21" rot="R90">RAMPSXB</text>
-<text x="39.878" y="29.972" size="1.524" layer="21" rot="R90">V2.0</text>
+<text x="39.878" y="29.972" size="1.524" layer="21" rot="R90">V2.1</text>
 <text x="37.338" y="22.86" size="1.27" layer="21" rot="R90">RAMPS Expansion Board</text>
 <rectangle x1="-27.2796" y1="0.508" x2="-24.7396" y2="3.048" layer="21"/>
 <text x="-21.9964" y="1.2192" size="1.27" layer="21">S</text>
@@ -271,12 +271,27 @@
 <vertex x="35.306" y="0"/>
 <vertex x="61.976" y="0"/>
 <vertex x="65.786" y="3.81"/>
-<vertex x="65.786" y="5.08"/>
+<vertex x="65.786" y="6.604"/>
+<vertex x="65.532" y="6.858"/>
+<vertex x="63.246" y="6.858"/>
+<vertex x="61.214" y="4.826"/>
+<vertex x="60.706" y="4.826"/>
+<vertex x="59.182" y="6.35"/>
+<vertex x="59.182" y="6.604"/>
+<vertex x="56.388" y="6.604"/>
+<vertex x="54.61" y="4.826"/>
+<vertex x="53.34" y="4.826"/>
+<vertex x="51.816" y="6.35"/>
+<vertex x="51.816" y="6.858"/>
+<vertex x="49.53" y="6.858"/>
+<vertex x="48.006" y="5.334"/>
+<vertex x="45.72" y="5.334"/>
+<vertex x="43.688" y="7.366"/>
+<vertex x="42.418" y="7.366"/>
+<vertex x="40.132" y="5.08"/>
 <vertex x="38.1" y="5.08"/>
 <vertex x="36.576" y="6.604"/>
-<vertex x="36.576" y="49.022"/>
-<vertex x="37.338" y="49.784"/>
-<vertex x="37.338" y="50.8"/>
+<vertex x="37.338" y="48.768"/>
 <vertex x="37.338" y="51.054"/>
 <vertex x="34.544" y="51.054"/>
 </polygon>
