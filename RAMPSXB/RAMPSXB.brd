@@ -166,7 +166,7 @@
 <text x="57.023" y="0.508" size="1.778" layer="21">+  -</text>
 <text x="63.754" y="0.508" size="1.778" layer="21">+  -</text>
 <text x="40.386" y="70.612" size="1.778" layer="21">-  +</text>
-<text x="3.937" y="1.27" size="1.778" layer="21">7/25/17</text>
+<text x="3.937" y="1.27" size="1.778" layer="21">8/22/17</text>
 <text x="52.07" y="52.451" size="1.778" layer="21">T3</text>
 <text x="51.943" y="40.132" size="1.778" layer="21">T6</text>
 <text x="52.07" y="66.929" size="1.778" layer="21">E2</text>
@@ -264,6 +264,71 @@
 <wire x1="18.542" y1="43.942" x2="15.748" y2="43.942" width="0.4064" layer="21"/>
 <wire x1="15.748" y1="43.942" x2="15.748" y2="46.482" width="0.4064" layer="21"/>
 <text x="-9.398" y="9.906" size="1.27" layer="21">PWM</text>
+<polygon width="0.1524" layer="30">
+<vertex x="33.782" y="51.816"/>
+<vertex x="32.512" y="50.546"/>
+<vertex x="32.512" y="2.794"/>
+<vertex x="35.306" y="0"/>
+<vertex x="61.976" y="0"/>
+<vertex x="65.786" y="3.81"/>
+<vertex x="65.786" y="5.08"/>
+<vertex x="38.1" y="5.08"/>
+<vertex x="36.576" y="6.604"/>
+<vertex x="36.576" y="49.022"/>
+<vertex x="37.338" y="49.784"/>
+<vertex x="37.338" y="50.8"/>
+<vertex x="37.338" y="51.054"/>
+<vertex x="34.544" y="51.054"/>
+</polygon>
+<polygon width="0.1524" layer="30">
+<vertex x="35.306" y="61.214"/>
+<vertex x="42.926" y="61.214"/>
+<vertex x="45.466" y="63.754"/>
+<vertex x="45.466" y="67.31"/>
+<vertex x="44.958" y="67.818"/>
+<vertex x="44.704" y="67.818"/>
+<vertex x="44.45" y="68.072"/>
+<vertex x="43.688" y="68.072"/>
+<vertex x="43.18" y="67.564"/>
+<vertex x="43.18" y="67.056"/>
+<vertex x="39.878" y="63.754"/>
+<vertex x="35.56" y="63.754"/>
+<vertex x="34.544" y="62.738"/>
+<vertex x="34.544" y="61.976"/>
+</polygon>
+<polygon width="0.1524" layer="30">
+<vertex x="39.624" y="66.802"/>
+<vertex x="39.624" y="68.834"/>
+<vertex x="40.132" y="69.342"/>
+<vertex x="40.894" y="69.342"/>
+<vertex x="42.164" y="70.612"/>
+<vertex x="43.434" y="71.882"/>
+<vertex x="94.996" y="71.882"/>
+<vertex x="96.774" y="70.104"/>
+<vertex x="96.774" y="20.32"/>
+<vertex x="92.202" y="15.748"/>
+<vertex x="86.36" y="15.748"/>
+<vertex x="84.582" y="13.97"/>
+<vertex x="84.074" y="13.462"/>
+<vertex x="82.042" y="11.43"/>
+<vertex x="42.418" y="11.43"/>
+<vertex x="41.148" y="12.7"/>
+<vertex x="41.148" y="13.208"/>
+<vertex x="42.418" y="14.478"/>
+<vertex x="64.008" y="14.478"/>
+<vertex x="65.024" y="15.494"/>
+<vertex x="81.534" y="15.494"/>
+<vertex x="84.074" y="18.034"/>
+<vertex x="90.932" y="18.034"/>
+<vertex x="94.488" y="21.59"/>
+<vertex x="94.488" y="68.326"/>
+<vertex x="92.71" y="70.104"/>
+<vertex x="44.958" y="70.104"/>
+<vertex x="42.672" y="67.818"/>
+<vertex x="42.672" y="67.31"/>
+<vertex x="41.91" y="66.548"/>
+<vertex x="39.624" y="66.548"/>
+</polygon>
 </plain>
 <libraries>
 <library name="RepRapjr">
@@ -1237,7 +1302,7 @@ design rules under a new name.</description>
 <element name="Q1" library="transistor-power" package="TO220BV" value="IRF512" x="47.117" y="16.764" smashed="yes" rot="R270"/>
 <element name="Q2" library="transistor-power" package="TO220BV" value="IRF512" x="58.039" y="16.764" smashed="yes" rot="R270"/>
 <element name="Q3" library="transistor-power" package="TO220BV" value="IRF512" x="69.215" y="17.018" smashed="yes" rot="R270"/>
-<element name="Q4" library="transistor-power" package="TO220BV" value="IRF512" x="79.375" y="17.272" smashed="yes" rot="R270"/>
+<element name="Q4" library="transistor-power" package="TO220BV" value="IRF512" x="79.121" y="17.018" smashed="yes" rot="R270"/>
 <element name="LED1" library="adafruit" package="CHIPLED_0805" value="" x="35.941" y="3.81" smashed="yes" rot="R270">
 <attribute name="VALUE" x="34.671" y="1.27" size="1.27" layer="27"/>
 </element>
@@ -3106,7 +3171,7 @@ design rules under a new name.</description>
 <via x="37.5666" y="17.3228" extent="1-16" drill="0.6"/>
 <wire x1="67.9162" y1="6.604" x2="73.7616" y2="12.1446" width="2.54" layer="1"/>
 <wire x1="75.085825" y1="16.9926" x2="76.5556" y2="16.9926" width="2.54" layer="1"/>
-<wire x1="76.5556" y1="16.9926" x2="76.835" y2="17.272" width="2.54" layer="1"/>
+<wire x1="76.5556" y1="16.9926" x2="76.581" y2="17.018" width="2.54" layer="1"/>
 <wire x1="73.7616" y1="12.1446" x2="73.7616" y2="15.668375" width="2.54" layer="1"/>
 <wire x1="73.7616" y1="15.668375" x2="71.628" y2="15.668375" width="2.54" layer="1"/>
 <wire x1="71.628" y1="15.668375" x2="71.628" y2="11.176" width="2.54" layer="1"/>
@@ -3128,7 +3193,6 @@ design rules under a new name.</description>
 <wire x1="65.28219375" y1="18.1262875" x2="65.36770625" y2="18.2118" width="0.4064" layer="16"/>
 <wire x1="71.4502" y1="18.2118" x2="72.644" y2="17.018" width="0.4064" layer="16"/>
 <wire x1="72.644" y1="17.018" x2="76.581" y2="17.018" width="0.4064" layer="16"/>
-<wire x1="76.581" y1="17.018" x2="76.835" y2="17.272" width="0.4064" layer="16"/>
 <wire x1="65.36770625" y1="18.2118" x2="71.4502" y2="18.2118" width="0.4064" layer="16"/>
 </signal>
 <signal name="N$39">
@@ -3170,7 +3234,7 @@ design rules under a new name.</description>
 <signal name="N$48">
 <contactref element="R18" pad="1"/>
 <contactref element="Q4" pad="G"/>
-<wire x1="76.835" y1="19.812" x2="75.893490625" y2="19.812" width="0.508" layer="1"/>
+<wire x1="76.581" y1="19.558" x2="75.893490625" y2="19.812" width="0.508" layer="1"/>
 <wire x1="75.893490625" y1="19.812" x2="74.623490625" y2="21.082" width="0.508" layer="1"/>
 <wire x1="74.623490625" y1="21.082" x2="66.91600625" y2="21.082" width="0.508" layer="1"/>
 <wire x1="66.91600625" y1="21.082" x2="62.85200625" y2="25.146" width="0.508" layer="1"/>

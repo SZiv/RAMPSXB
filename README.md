@@ -15,7 +15,7 @@ RAMPSXB is an expansion board shield for serious 3D printer people that adds an 
 - Broken out, preregulated pins for HC-05 Bluetooth Chip
 - Isolated input and microcontroller power, so 12V or 24V power can be used for the FETs. 
 - Suppression Capacitors on endstops to reduce false positives caused by inductive voltages.
-- 1 servo pin (the other 3 were consumed for PWM on the FETs)
+- 1 servo pin (the other 3 were consumed for PWM on the FETs, but are broken out if you want to use them for something other than the FETS)
 - Broken out 12C pins
 
 

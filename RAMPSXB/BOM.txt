@@ -4,7 +4,11 @@ Part                                      Quantity          Package
 
 Electrolytic Capacitors, 100uF, SMD         4                 0605  
 Electrolytic Capacitors, 10uF, SMD          4                 0405  
+<<<<<<< HEAD
 Nonpolarized Capacitor, SMD, 0.47uF	    3		      0805  
+=======
+Nonpolarized Capacitor, SMD, 0.47uF         3       				  0805  
+>>>>>>> origin/master
 Resistors, SMD, 100k Ohm                    8                 0805  
 Resistors, SMD, 10k Ohm                     4                 0805  
 Resistors, SMD, 10 Ohm                      4                 0805  
@@ -14,8 +18,13 @@ Resistors, SMD, 3.3k Ohm                    1                 0805
 Resistors, SMD, 2.2k Ohm                    1                 0805  
 MOSFET, Through-hole, stp55nf06l            4                 TO-220  
 LEDs, SMD                                   4                 0805  
+<<<<<<< HEAD
 Screw Terminals                             5                 3.5mm  
 PTC Fuse, 6-9A                                    1                 
+=======
+Screw Terminals                             5                 3.5mm   
+PTC Fuse, 6A                                1                
+>>>>>>> origin/master
 Pin Headers, 1x18, female, 0.1" spacing     1                 N/A   
 Pin Headers, 1x8, female, 0.1" spacing      8                 N/A  
 Pin Headers, 2x10, female, 0.1" spacing     1                 N/A  
