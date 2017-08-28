@@ -29,6 +29,8 @@ This comes at the cost of:
 
 If you have questions, feel free to shoot me a message, or if you want to learn more about the making of this project, see here: http://scottziv.com/?p=261
 
+Be sure to take a look at the Wiki here: http://reprap.org/wiki/RAMPSXB
+
 Happy printing!
 
 Released under GPL V3
@@ -53,10 +55,10 @@ Thermistor T3     -  A11
 Thermistor T4     -  A12  
 Thermistor T5     -  A10  
 Thermistor T6     -  A5  
-MOSFET H2          -  4  
-MOSFET H3          -  5  
-MOSFET H4          -  6  
-MOSFET H5          -  45    
+MOSFET H3          -  4  
+MOSFET H4          -  5  
+MOSFET H5          -  6  
+MOSFET H6          -  45    
 
 HC-05 chip, LCD screen, and SD card follow the standard pinouts
 
