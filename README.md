@@ -47,7 +47,7 @@ E3 Step           -  39
 E3 Enable         -  58  
 E4 Direction      -  42  
 E4 Step           -  44  
-E4 Enable         -  49  
+E4 Enable         -  43 
 E5 Direction      -  32  
 E5 Step           -  47  
 E5 Enable         -  57  

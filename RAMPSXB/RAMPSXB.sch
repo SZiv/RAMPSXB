@@ -13191,6 +13191,11 @@ grid 2.54 mm</description>
 <pinref part="CN5" gate="G$1" pin="1"/>
 <label x="-38.1" y="25.4" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="1"/>
+<wire x1="185.42" y1="-101.6" x2="180.34" y2="-101.6" width="0.1524" layer="91"/>
+<label x="180.34" y="-101.6" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="N$18" class="0">
 <segment>
@@ -13750,9 +13755,11 @@ grid 2.54 mm</description>
 <label x="233.68" y="-114.3" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="EXP2" gate="G$1" pin="7"/>
-<wire x1="292.1" y1="-187.96" x2="287.02" y2="-187.96" width="0.1524" layer="91"/>
-<label x="287.02" y="-187.96" size="1.778" layer="95"/>
+<pinref part="U$2" gate="G$1" pin="EN"/>
+<pinref part="R2" gate="G$1" pin="2"/>
+<wire x1="157.48" y1="-40.64" x2="157.48" y2="-45.72" width="0.1524" layer="91"/>
+<junction x="157.48" y="-40.64"/>
+<label x="157.48" y="-45.72" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="D41" class="0">
@@ -13906,11 +13913,9 @@ grid 2.54 mm</description>
 <label x="203.2" y="-101.6" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="EN"/>
-<pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="157.48" y1="-40.64" x2="157.48" y2="-43.18" width="0.1524" layer="91"/>
-<junction x="157.48" y="-40.64"/>
-<label x="157.48" y="-45.72" size="1.778" layer="95" rot="R90"/>
+<pinref part="EXP2" gate="G$1" pin="7"/>
+<wire x1="292.1" y1="-187.96" x2="287.02" y2="-187.96" width="0.1524" layer="91"/>
+<label x="287.02" y="-187.96" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
