@@ -12,7 +12,7 @@ Resistors, SMD, 1.8k Ohm                    4                 0805
 Resistors, SMD, 4.7k Ohm                    4                 0805  
 Resistors, SMD, 3.3k Ohm                    1                 0805  
 Resistors, SMD, 2.2k Ohm                    1                 0805  
-MOSFET, SMD, PSMN7R0-30YLC                  4                 LFPAK  
+MOSFET, Through-hole, stp55nf06l            4                 TO-220  
 LEDs, SMD                                   4                 0805  
 Screw Terminals                             5                 3.5mm  
 PTC Fuse, 30V 6A-9A                         1                
