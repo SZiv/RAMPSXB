@@ -27,7 +27,7 @@ This comes at the cost of:
 - A lot of additional space
 
 
-If you have questions, feel free to shoot me a message, or if you want to learn more about the making of this project, see here: http://scottziv.com/?p=261
+If you have questions, feel free to shoot me a message, or if you want to learn more about the making of this project, see here: http://scottziv.com/rampsxb
 
 Be sure to take a look at the Wiki here: http://reprap.org/wiki/RAMPSXB
 
@@ -60,6 +60,6 @@ MOSFET H4          -  5
 MOSFET H5          -  6  
 MOSFET H6          -  45    
 
-HC-05 chip, LCD screen, and SD card follow the standard pinouts
+HC-05 chip, LCD screen, and SD card follow the standard pinouts for the Full Graphic smart controller and RAMPS HC-05 attachment.
 
 
