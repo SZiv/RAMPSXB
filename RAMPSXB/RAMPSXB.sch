@@ -12751,8 +12751,10 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <text x="10.16" y="35.56" size="5.08" layer="108">I2C</text>
 <text x="-20.32" y="-5.08" size="5.08" layer="108">CAPACITORS</text>
 <text x="-20.32" y="-142.24" size="5.08" layer="108">HC-05</text>
-<text x="-35.56" y="50.8" size="6.4516" layer="91">RAMPSXB</text>
+<text x="93.98" y="50.8" size="6.4516" layer="91">RAMPSXB</text>
 <text x="177.8" y="50.8" size="6.4516" layer="91">http://reprap.org/wiki/RAMPSXB</text>
+<text x="-63.5" y="50.8" size="3.81" layer="91">(C) Scott Ziv</text>
+<text x="-10.16" y="50.8" size="3.81" layer="91">GPLv3</text>
 </plain>
 <instances>
 <instance part="U$3" gate="G$1" x="193.04" y="-106.68"/>
@@ -14204,7 +14206,8 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <wire x1="121.92" y1="-134.62" x2="170.18" y2="-134.62" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="-71.12" x2="264.16" y2="-40.64" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="-40.64" x2="264.16" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="264.16" y1="43.18" x2="104.14" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="264.16" y1="43.18" x2="162.56" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="162.56" y1="43.18" x2="104.14" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="43.18" x2="104.14" y2="-71.12" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-71.12" x2="121.92" y2="-71.12" width="0.1524" layer="91"/>
 <wire x1="261.62" y1="-134.62" x2="264.16" y2="-134.62" width="0.1524" layer="91"/>
@@ -14247,9 +14250,16 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <junction x="337.82" y="-134.62"/>
 <wire x1="-78.74" y1="43.18" x2="-78.74" y2="60.96" width="0.1524" layer="91"/>
 <junction x="-78.74" y="43.18"/>
-<wire x1="-78.74" y1="60.96" x2="337.82" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="-78.74" y1="60.96" x2="22.86" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="60.96" x2="162.56" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="162.56" y1="60.96" x2="337.82" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="337.82" y1="60.96" x2="337.82" y2="43.18" width="0.1524" layer="91"/>
 <junction x="337.82" y="43.18"/>
+<wire x1="22.86" y1="43.18" x2="22.86" y2="60.96" width="0.1524" layer="91"/>
+<junction x="22.86" y="60.96"/>
+<wire x1="162.56" y1="43.18" x2="162.56" y2="60.96" width="0.1524" layer="91"/>
+<junction x="162.56" y="43.18"/>
+<junction x="162.56" y="60.96"/>
 </segment>
 </net>
 <net name="N$44" class="0">
