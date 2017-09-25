@@ -12750,6 +12750,8 @@ grid 2.54 mm</description>
 <text x="-20.32" y="-142.24" size="5.08" layer="108">HC-05</text>
 <text x="-35.56" y="50.8" size="6.4516" layer="91">RAMPSXB</text>
 <text x="177.8" y="50.8" size="6.4516" layer="91">http://reprap.org/wiki/RAMPSXB</text>
+<text x="81.28" y="53.34" size="3.81" layer="91">V2.1</text>
+<text x="71.12" y="45.72" size="3.81" layer="91">(C) Scott Ziv</text>
 </plain>
 <instances>
 <instance part="U$3" gate="G$1" x="193.04" y="-106.68"/>
