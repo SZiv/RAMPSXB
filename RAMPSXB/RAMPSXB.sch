@@ -16821,7 +16821,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="-20.32" y="-142.24" size="5.08" layer="108">HC-05</text>
 <text x="71.12" y="50.8" size="6.4516" layer="91">RAMPSXB</text>
 <text x="177.8" y="50.8" size="6.4516" layer="91">http://reprap.org/wiki/RAMPSXB</text>
-<text x="-73.66" y="50.8" size="3.81" layer="91">Developed by Scott Ziv</text>
+<text x="-73.66" y="50.8" size="3.81" layer="91">Developed by SZiv</text>
 <text x="5.08" y="50.8" size="3.81" layer="91">GPLv3</text>
 </plain>
 <instances>
