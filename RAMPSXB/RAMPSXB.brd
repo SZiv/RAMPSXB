@@ -476,8 +476,8 @@
 <text x="2.794" y="60.706" size="0.8128" layer="21" font="vector">C9</text>
 <text x="8.382" y="60.706" size="0.8128" layer="21" font="vector">C10</text>
 <text x="13.716" y="60.706" size="0.8128" layer="21" font="vector">C11</text>
-<text x="-19.812" y="9.906" size="0.8128" layer="21" font="vector">R10</text>
-<text x="-19.812" y="3.302" size="0.8128" layer="21" font="vector">R9</text>
+<text x="-19.558" y="3.556" size="0.8128" layer="21" font="vector">R10</text>
+<text x="-18.542" y="9.144" size="0.8128" layer="21" font="vector">R9</text>
 <text x="-19.05" y="4.572" size="0.8128" layer="21" font="vector" rot="R90">3.3k</text>
 <text x="-19.05" y="7.112" size="0.8128" layer="21" font="vector" rot="R90">2.2k</text>
 <text x="-30.4292" y="0.3048" size="0.635" layer="21" font="vector" rot="R90">Servo</text>
